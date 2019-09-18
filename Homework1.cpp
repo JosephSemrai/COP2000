@@ -13,22 +13,22 @@ int main()
     int gaitersPrice = 12;
     int cleatsPrice = 14;
 
-    cout << "********************************************" << endl;
-    cout << "**          //\\                           **" << endl;
-    cout << "**         //  \\  //\\                     **" << endl;
-    cout << "**        //    \\//  \\      //\\           **" << endl;
-    cout << "**       //           \\    //  \\          **" << endl;
-    cout << "**      //             \\  //    \\         **" << endl;
-    cout << "**     //               \\//      \\        **" << endl;
-    cout << "**    //                          \\       **" << endl;
-    cout << "********************************************" << endl;
-    cout << "** Welcome to Gunter's Mountain Shop      **" << endl;
-    cout << "********************************************" << endl;
-    cout << endl << "Sale Items\t\t\tSale Price" << endl;
-    cout << "Hunter Climbing Boots\t\t$" << climbingBootsPrice << endl;
-    cout << "Fleece Pullovers\t\t$" << pulloversPrice << endl;
-    cout << "Snow Gaiters\t\t\t$" << gaitersPrice << endl;
-    cout << "Traction Cleats\t\t\t$" << cleatsPrice << endl;
+    cout << "*****************************************" << endl;
+    cout << "**        //\\                          **" << endl;
+    cout << "**       //  \\  //\\                    **" << endl;
+    cout << "**      //    \\//  \\      //\\          **" << endl;
+    cout << "**     //           \\    //  \\         **" << endl;
+    cout << "**    //             \\  //    \\        **" << endl;
+    cout << "**   //               \\//      \\       **" << endl;
+    cout << "**  //                          \\      **" << endl;
+    cout << "*****************************************" << endl;
+    cout << "** Welcome to Gunter's Mountain Shop   **" << endl;
+    cout << "*****************************************" << endl;
+    cout << endl << "Sale Items\t\tSale Price" << endl;
+    cout << "Hunter Climbing Boots   $" << climbingBootsPrice << endl;
+    cout << "Fleece Pullovers\t$" << pulloversPrice << endl;
+    cout << "Snow Gaiters\t\t$" << gaitersPrice << endl;
+    cout << "Traction Cleats\t\t$" << cleatsPrice << endl;
 
     return 0;
 }
